@@ -1,0 +1,23 @@
+.btn {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 0px;
+}
+.btn-primary {
+    &.btn-inverse {
+        .button-variant(@btn-primary-bg; @btn-primary-color; @btn-primary-border);
+    }
+}
+.btn-secondary {
+    .button-variant(@btn-secondary-color; @btn-secondary-bg; @btn-secondary-border);
+    &.btn-inverse {
+        .button-variant(@btn-secondary-bg; @btn-secondary-color; @btn-secondary-border);
+    }
+}
+.btn-tertiary {
+    .button-variant(@btn-tertiary-color; @btn-tertiary-bg; @btn-tertiary-border);
+    &.btn-inverse {
+        .button-variant(@btn-tertiary-bg; @btn-tertiary-color; @btn-tertiary-border);
+    }
+}
