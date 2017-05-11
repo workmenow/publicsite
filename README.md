@@ -1,6 +1,6 @@
 # WorkMeNow website
 
-### clone the repo and host on a serve such as MAMP: 
+### clone the repo and host on a server such as MAMP: 
 
 ```
 https://www.mamp.info/en/downloads/
