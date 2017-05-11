@@ -1,30 +1,23 @@
+# WorkMeNow wesite
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+### clone the repo and host on a serve such as MAMP: 
+```
+https://www.mamp.info/en/downloads/
 
+```
 
-Hi there! Welcome to Cloud9 IDE!
+Git
+```
+git clone  https://github.com/workmenow/publicsite.git
+```
 
-To get you started, we have created a small hello world application.
+### On a Mac install at: 
+```
+/Applications/MAMP/htdocs/
+```
 
-1) Open the hello-world.php file
+### Using MAMP the address is: 
+```
+http://localhost:8888/publicsite
+```
 
-2) Follow the run instructions in the file's comments
-
-3) If you want to look at the Apache logs, check out ~/lib/apache2/log
-
-And that's all there is to it! Just have fun. Go ahead and edit the code, 
-or add new files. It's all up to you! 
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
